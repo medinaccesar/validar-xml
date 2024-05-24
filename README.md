@@ -19,7 +19,7 @@ Uso: validar-xml.py [-h] [-v ARCHIVO_XML ARCHIVO_SXD | -c ARCHIVO] [--version]
 
 validar-xml 0.1.0
 
-optiones:
+opciones:
   -h, --help            muestra este mensaje de ayuda y sale
   -v ARCHIVO_XML ARCHIVO_SXD, --validar ARCHIVO_XML ARCHIVO_SXD
                         Valida un fichero xml a partir del esquema sxd
