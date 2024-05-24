@@ -71,26 +71,30 @@ msgid "argumentos opcionales"
 msgstr "optional arguments"
 
 #: utils/espannol_string_argparse.py:27
+msgid "opciones"
+msgstr "options"
+
+#: utils/espannol_string_argparse.py:28
 msgid "muestra este mensaje de ayuda y sale"
 msgstr "shows this help message and exits"
 
-#: utils/espannol_string_argparse.py:28
+#: utils/espannol_string_argparse.py:29
 msgid "argumentos posicionales"
 msgstr "positional arguments"
 
-#: utils/espannol_string_argparse.py:29
+#: utils/espannol_string_argparse.py:30
 #, python-format
 msgid "los siguientes argumentos son requeridos: %s"
 msgstr "the following arguments are required: %s"
 
-#: utils/espannol_string_argparse.py:30
+#: utils/espannol_string_argparse.py:31
 msgid "muestra la versión del programa y sale"
 msgstr "shows the program version and exits"
 
-#: utils/espannol_string_argparse.py:31
+#: utils/espannol_string_argparse.py:32
 msgid "se espera un valor para el parámetro"
 msgstr "a value is expected for the parameter"
 
-#: utils/espannol_string_argparse.py:32
+#: utils/espannol_string_argparse.py:33
 msgid "se espera al menos un valor para el parámetro"
 msgstr "at least one value is expected for the parameter"

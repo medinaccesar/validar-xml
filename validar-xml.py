@@ -75,7 +75,7 @@ class ValidarXml():
             description=conf.NOMBRE_AP+" "+str(conf.VERSION) ) 
         group = parser.add_mutually_exclusive_group()         
         group.add_argument('-v', '--validar', nargs=2,
-                           metavar=(_('ARCHIVO_XML'), _('ARCHIVO_SXD')), help=_('Valida un fichero xml a partir del esquema sxd')                      
+                           metavar=(_('ARCHIVO_XML'), _('ARCHIVO_SXD')), help=_('Valida un fichero xml a partir del esquema sxd'))                      
         group.add_argument('-c', '--crear', type=str,
                            metavar=(_('ARCHIVO')), help=_('Crea el esquema sxd a partir de un fichero xml'))         
         parser.add_argument('--version', action='version', version='%(prog)s ' +
