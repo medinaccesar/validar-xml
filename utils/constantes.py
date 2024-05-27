@@ -7,7 +7,7 @@ class Configuracion:
 
     NOMBRE_AP = 'validar-xml'
     DESCRIPCION_APP = 'Permite validar un fichero xml a partir de un esquema sxd'
-    VERSION = '0.1.0'
+    VERSION = '1.0.0'
     AUTOR = 'César Medina'
     ANNO = '2024'
     CREDITOS = AUTOR + ' - ' + ANNO 
