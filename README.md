@@ -17,7 +17,7 @@ python utils/compile_lang.py
 ```
 Uso: validar-xml.py [-h] [-v ARCHIVO_XML ARCHIVO_SXD | -c ARCHIVO] [--version]
 
-validar-xml 0.1.0
+validar-xml 1.0.0
 
 opciones:
   -h, --help            muestra este mensaje de ayuda y sale
